@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Fear and Hunger - Dark Theme",
-  "version": "1.0.0",
+  "version": "1.2.0",
 "description": "Dark theme Fear & Hunger for every fan of the game (made with a fan art illustration).\n\nTransform your browser with a dark theme inspired by the cult game Fear and Hunger.\nThis theme highlights a dark, minimalist, and immersive atmosphere, perfect for users who want a cleaner and more eye-friendly browser while keeping the unique aesthetic of the game.\n\n✨ Features:\n- Dark background for better visual comfort\n- Colors inspired by the Fear and Hunger universe\n- Active tab text in white and inactive tabs in gray for better readability\n- Harmonized icons and toolbars for total immersion\n\n👁️ Perfect for:\n- Fans of Fear and Hunger\n- Dark mode enthusiasts\n- Anyone who wants an aesthetic and immersive browser",
   "icons": {
     "48": "images/48x48.png",
