@@ -16,7 +16,9 @@
       "frame" : [0, 0, 0],
       "tab_background_text": [150, 150, 150],
       "tab_text": [255,255,255],
-      "ntp_section":[0, 0, 0]
+      "ntp_section":[0, 0, 0],
+      "inactive_frame":[0, 0, 0],
+      "inactive_tab_text":[100, 100, 100]
     },
     "tints": {
     "buttons": [0, 0, 1] 
